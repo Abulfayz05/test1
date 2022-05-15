@@ -4,6 +4,6 @@ export default function contact() {
   return (
     <div className={styles.main}>
       
-      <h2>Bu Bog'lanish haqida malumot beruvchi sahifa</h2></div>
+      <h2>Bu Boglanish haqida malumot beruvchi sahifa</h2></div>
   )
 }
