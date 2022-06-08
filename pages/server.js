@@ -1,4 +1,4 @@
-export async function getServerSideProps() {
+export async function getStaticProps() {
   const res = await fetch(`https://54.uz/rang.php`);
   const data = await res.json();
 
